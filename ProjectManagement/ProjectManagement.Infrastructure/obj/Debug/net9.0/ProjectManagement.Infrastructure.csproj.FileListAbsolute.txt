@@ -1,0 +1,15 @@
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.AssemblyInfo.cs
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\bin\Debug\net9.0\ProjectManagement.Infrastructure.deps.json
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\bin\Debug\net9.0\ProjectManagement.Infrastructure.dll
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\bin\Debug\net9.0\ProjectManagement.Infrastructure.pdb
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\bin\Debug\net9.0\ProjectManagement.Domain.dll
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\bin\Debug\net9.0\ProjectManagement.Domain.pdb
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectM.60AD468C.Up2Date
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.dll
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\refint\ProjectManagement.Infrastructure.dll
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ProjectManagement.Infrastructure.pdb
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Infrastructure\obj\Debug\net9.0\ref\ProjectManagement.Infrastructure.dll

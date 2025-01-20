@@ -1,0 +1,12 @@
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Domain\obj\Debug\net9.0\ProjectManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Domain\obj\Debug\net9.0\ProjectManagement.Domain.AssemblyInfoInputs.cache
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Domain\obj\Debug\net9.0\ProjectManagement.Domain.AssemblyInfo.cs
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Domain\obj\Debug\net9.0\ProjectManagement.Domain.csproj.CoreCompileInputs.cache
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Domain\bin\Debug\net9.0\ProjectManagement.Domain.deps.json
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Domain\bin\Debug\net9.0\ProjectManagement.Domain.dll
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Domain\bin\Debug\net9.0\ProjectManagement.Domain.pdb
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Domain\obj\Debug\net9.0\ProjectManagement.Domain.dll
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Domain\obj\Debug\net9.0\refint\ProjectManagement.Domain.dll
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Domain\obj\Debug\net9.0\ProjectManagement.Domain.pdb
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Domain\obj\Debug\net9.0\ref\ProjectManagement.Domain.dll
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Domain\obj\Debug\net9.0\ProjectManagement.Domain.csproj.AssemblyReference.cache

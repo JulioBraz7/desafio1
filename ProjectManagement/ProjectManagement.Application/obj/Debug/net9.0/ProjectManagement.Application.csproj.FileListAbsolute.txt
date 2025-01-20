@@ -1,0 +1,17 @@
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\bin\Debug\net9.0\ProjectManagement.Application.deps.json
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\bin\Debug\net9.0\ProjectManagement.Application.dll
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\bin\Debug\net9.0\ProjectManagement.Application.pdb
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\bin\Debug\net9.0\ProjectManagement.Domain.dll
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\bin\Debug\net9.0\ProjectManagement.Infrastructure.dll
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\bin\Debug\net9.0\ProjectManagement.Domain.pdb
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\bin\Debug\net9.0\ProjectManagement.Infrastructure.pdb
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\obj\Debug\net9.0\ProjectManagement.Application.csproj.AssemblyReference.cache
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\obj\Debug\net9.0\ProjectManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\obj\Debug\net9.0\ProjectManagement.Application.AssemblyInfoInputs.cache
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\obj\Debug\net9.0\ProjectManagement.Application.AssemblyInfo.cs
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\obj\Debug\net9.0\ProjectManagement.Application.csproj.CoreCompileInputs.cache
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\obj\Debug\net9.0\ProjectM.6FAF72D3.Up2Date
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\obj\Debug\net9.0\ProjectManagement.Application.dll
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\obj\Debug\net9.0\refint\ProjectManagement.Application.dll
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\obj\Debug\net9.0\ProjectManagement.Application.pdb
+C:\DEV\T2M\desafioT2M2\ProjectManagement\ProjectManagement.Application\obj\Debug\net9.0\ref\ProjectManagement.Application.dll

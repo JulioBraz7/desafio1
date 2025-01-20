@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9o9LBkbJclM=",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\T2M\\desafioT2M2\\ProjectManagement\\ProjectManagement.Domain\\ProjectManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}
